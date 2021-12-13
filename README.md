@@ -1,5 +1,5 @@
 # Tuberculosis-TB-Analyzer
-For BIA4 Group9 image analysis software project. To use the software, please download the package and unzip first. You can find the video documentation inside the unziped floder.
+For BIA4 Group9 image analysis software project. To use the software, please download the release v2.1.0 and unzip first. You can find the video documentation inside the unziped floder ;)
 
 # Data sources for traning classification & segmentation models: 
 Dataset1 - Tuberculosis (TB) Chest X-ray Database (https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)
